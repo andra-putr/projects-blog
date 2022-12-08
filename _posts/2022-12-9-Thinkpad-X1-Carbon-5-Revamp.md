@@ -32,6 +32,17 @@ This meant that the battery life went from about 7+ hours to barely 2 hours! Sur
 > powercfg /batteryreport
 
 ![]({{site.baseurl}}/https://i.imgur.com/V0m0Pr7.png)
+
+After some time searching for a replacement (and after dodging a shady site in Japan), my battery arrived from Amazon in about 3 days time.
+
+Replacement was fairly straight forward, really makes me glad I own a thinkpad where I can do things like this without a heat gun. After replacement the battery now registers back to 57MwH and lasts up to 8+ hours again!
+
+![]({{site.baseurl}}/https://i.imgur.com/rpFwipd.png)
+
+To make sure it lasts longer however, I followed [this guide](https://www.ultrabookreview.com/31385-the-throttlestop-guide/) to set up Throttlestop on my laptop. 
+Hopefully this makes it last longer, though I don't know for sure since the increase I got from replacing the battery eclipses any gains Throttlestop might have given.
+
+
 ### New SSD
 
 ### New Thermal Paste
