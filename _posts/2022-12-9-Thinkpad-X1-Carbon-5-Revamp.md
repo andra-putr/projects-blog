@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Thinkpad X1 Carbon 5th Gen Revamp for 2022.html
-date: 2022-12-9
+date: 2022-12-8
 published: true
 ---
 ## Intro
@@ -46,8 +46,3 @@ Hopefully this makes it last longer, though I don't know for sure since the incr
 ### New SSD
 
 ### New Thermal Paste
-
-
-
-
-
