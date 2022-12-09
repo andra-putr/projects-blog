@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Extending WiFi (eduroam) signal at uni
 
