@@ -44,7 +44,15 @@ Replacement was fairly straight forward, really makes me glad I own a thinkpad w
 To make sure it lasts longer however, I followed [this guide](https://www.ultrabookreview.com/31385-the-throttlestop-guide/) to set up Throttlestop on my laptop. 
 Hopefully this makes it last longer, though I don't know for sure since the increase I got from replacing the battery eclipses any gains Throttlestop might have given.
 
+![](https://i.imgur.com/GvBEpNq.png)
+
 
 ### New SSD
+This was probably the catalyst as to why I wanted to start upgrading my laptop in the first place.
+During a meeting that I had with an important representative in my univeristy, my chrome suddenly froze and I wasn't able to show them the thing I wanted to present and we ended up having to continue it by email later on in the day. "Ok I've had enough" I said to myself, and started to compare SSD prices in Japan.
+
+(工事中)
+
 
 ### New Thermal Paste
+(工事中)
