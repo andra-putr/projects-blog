@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Assortment of Retro Tech In Japan
 
