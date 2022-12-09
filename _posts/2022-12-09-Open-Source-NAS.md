@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Open Source NAS Project
 
