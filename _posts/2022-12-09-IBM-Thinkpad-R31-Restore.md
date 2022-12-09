@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Restoring Used IBM Thinkpad R31 from Akihabara
 
