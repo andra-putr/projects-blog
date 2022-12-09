@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Trying to fix/hack friend's broken JBL Link 300
 
