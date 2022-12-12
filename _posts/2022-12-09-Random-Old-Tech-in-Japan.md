@@ -22,6 +22,8 @@ After closer inspection, seems that the pinch roller module is broken on one sid
 ![](https://i.imgur.com/9SppmXe.png)
 
 Currently following this [service manual](https://drive.google.com/file/d/1_6iHu7c1IXegvVvEJMgHzSxhunD9C2C4/view) to fix broken pinch roller module.
+They really don't make things with support like this anymore do they.
+![](https://i.imgur.com/7K1MiXx.png)
 
 Ordered replacement pinch rollers from aliexpress + donor compatible Walkman model to extract the pinch roller module itself.
 (工事中)
