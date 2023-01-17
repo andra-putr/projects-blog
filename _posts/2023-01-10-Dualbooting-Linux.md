@@ -19,6 +19,8 @@ Current settings:
 ## Japanese Input
 
 ![enter image description here](https://imgur.com/fI5u2ORl.png)
+This was initially quite an annoying issue to deal with for me, since I was really adamant about my keyboard shortcuts (as can be seen with me having all those keyboard macros and switches). Since inputting Japanese through a keyboard requires you to press several more keys to choose input method etc
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MzgxODA3MCwtMTU4NzY4NDYxM119
+eyJoaXN0b3J5IjpbLTE1NDc2NzU5NTcsMTY3MzgxODA3MCwtMT
+U4NzY4NDYxM119
 -->
