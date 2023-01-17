@@ -42,7 +42,7 @@ Which meant that:
 - I had to use mouse manually to switch between hiragana and katakana
 - I had to blindly find where symbols are located under since JIS layout places them in different locations VS ANSI
 
-!
+![JIS Thinkpad keyboard](https://i.stack.imgur.com/t592d.jpg)
 
 Which made me HATE using it. I ended up having to always switch back to my Windows partition whenever I go to Japanese class. 
 
@@ -53,6 +53,6 @@ I'm sure you're already saying to yourself
 - Method to export/import keyboard bindings etc. easily between all my Linux machines
 	- Export as package or something maybe?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyOTQ0ODE0NCwxMjUwNTc2MTcsMTY3Mz
-gxODA3MCwtMTU4NzY4NDYxM119
+eyJoaXN0b3J5IjpbMjIwNDQ5MTI0LDEyNTA1NzYxNywxNjczOD
+E4MDcwLC0xNTg3Njg0NjEzXX0=
 -->
