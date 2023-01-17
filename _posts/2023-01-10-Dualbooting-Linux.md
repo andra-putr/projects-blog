@@ -26,11 +26,13 @@ This was initially quite an annoying issue to deal with for me, since I was real
 ### JP Input on Windows
 I first learned Japanese (including how to type in Japanese) on a windows machine back home, so it naturally became the input method that I'm most used to. I used Google's Japanese IME on a standard ANSI keyboard which had shortcuts such as:
 - Win + Spacebar = Switch language (Windows shortcut)
-- L_Alt + \` = Switch input mode (Romaji --> ひらがな --> カタカナ)
-- Shift
+- L_Alt + \` = Switch input mode (Romaji --> 仮名)
+- Shift + Caps_Lock = Switch Kana input mode (ひらがな　--> カタカナ)
+
+There were more I believe, such as F7 or something to convert selected text into katakana, double/half width conversion e
 
 ### JP Input on Linux
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNzY2NzUwNiwxNjczODE4MDcwLC0xNT
-g3Njg0NjEzXX0=
+eyJoaXN0b3J5IjpbODk0NDA5NTI3LDE2NzM4MTgwNzAsLTE1OD
+c2ODQ2MTNdfQ==
 -->
