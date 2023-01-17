@@ -19,8 +19,6 @@ Current settings:
 
 ## Japanese Input
 
-![enter image description here](https://imgur.com/fI5u2ORl.png)
-
 This was initially quite an annoying issue to deal with for me, since I was really adamant about my keyboard shortcuts (as can be seen with me having all those keyboard macros and switches). Since inputting Japanese through a keyboard requires you to press several more keys to choose input method etc., this also of course meant that my usual workflow when using Japanese on a computer is also modified quite a bit and I am really only fully comfortable with my own setup. 
 
 ### JP Input on Windows
@@ -32,14 +30,14 @@ I first learned Japanese (including how to type in Japanese) on a windows machin
 There were more I believe, such as F7 or something to convert selected text into katakana, double/half width conversion, etc. But I never really used them much and mostly relied on the above mentioned shortcuts. My goal then was to of course try and find a way to have the same shortcuts set up on my Linux machines.
 
 ### JP Input on Linux
-
-
+![enter image description here](https://imgur.com/fI5u2ORl.png)
+I really thought importing my settings from Windows would be much easier than it was, but alas quite a bit of tinkering was needed. When I was still using Ubuntu, I had a solution that kind of worked? But I never really liekd
 
 # Future Things
 
 - Method to export/import keyboard bindings etc. easily between all my Linux machines
 	- Export as package or something maybe?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MDU3NjE3LDE2NzM4MTgwNzAsLTE1OD
-c2ODQ2MTNdfQ==
+eyJoaXN0b3J5IjpbLTE0OTY4MDA2LDEyNTA1NzYxNywxNjczOD
+E4MDcwLC0xNTg3Njg0NjEzXX0=
 -->
