@@ -46,7 +46,7 @@ Which meant that:
 
 Which made me HATE using it. I ended up having to always switch back to my Windows partition whenever I go to Japanese class. 
 
-I'm sure you're already saying to yourself 
+I'm sure you're already saying to yourself "oh but Andra why don't you just click on top right idiot!!! ez to click and switch language options!!!" yes but I am probably on a spectrum and I want to have an efficient way of operating a computer. I mean it's basically like 60% of why I love Thinkpads and trackpoints so much.
 
 # Mouse Stuff
 Mostly pretty good, was just annoyed that Kali doesn't have an easy way to disable the "Middle mouse to paste" thing that Linux for some reason has. With Ubuntu GNOME it was easy enough to run `gnome-tweaks`, but since my Kali was on XFCE I wasn't sure on how to do that.
@@ -57,10 +57,13 @@ After a bit of searching I ended up following [this thread](https://unix.stackex
 - Method to export/import keyboard bindings etc. easily between all my Linux machines
 	- Export as package or something maybe?
 - Mouse/Trackpad
-	- Still unhappy about lack of features l
+	- Still unhappy about lack of features like
+		- 4 finger swipe to switch virtual desktops
+		- 2 finger swipe to forward/back on browser
+		- etc.
 - Fingerprint scanner
 	- Maybe drivers required? Not sure if lenovo provides for Linux
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzI5NjMyNzYsMjIwNDQ5MTI0LDEyNT
-A1NzYxNywxNjczODE4MDcwLC0xNTg3Njg0NjEzXX0=
+eyJoaXN0b3J5IjpbLTU1MDkwNTU5NSwyMjA0NDkxMjQsMTI1MD
+U3NjE3LDE2NzM4MTgwNzAsLTE1ODc2ODQ2MTNdfQ==
 -->
