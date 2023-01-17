@@ -48,11 +48,15 @@ Which made me HATE using it. I ended up having to always switch back to my Windo
 
 I'm sure you're already saying to yourself 
 
+# Mouse Stuff
+Mostly pretty good, was just annoyed that Kali doesn't have an easy way to disable the "Middle mouse to paste" thing that Linux for some reason has. With Ubuntu GNOME it was easy enough to run `gnome-tweaks`, but since my Kali was on XFCE I wasn't sure on how to do that.
+
+After a bit of searching I ended up following [this thread](https://unix.stackexchange.com/questions/24330/how-can-i-turn-off-middle-mouse-button-paste-functionality-in-all-programs)
 # Future Things
 
 - Method to export/import keyboard bindings etc. easily between all my Linux machines
 	- Export as package or something maybe?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIwNDQ5MTI0LDEyNTA1NzYxNywxNjczOD
-E4MDcwLC0xNTg3Njg0NjEzXX0=
+eyJoaXN0b3J5IjpbMzExMDI1NDI1LDIyMDQ0OTEyNCwxMjUwNT
+c2MTcsMTY3MzgxODA3MCwtMTU4NzY4NDYxM119
 -->
