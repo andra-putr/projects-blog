@@ -15,3 +15,10 @@ Current settings:
 - Caps lock & CTRL swap = [XKB File edit](https://gist.github.com/dmgl/f5ec96dfe3af1652792089ebf6683431)
 - Backspace and Backslash swap = [xmodmap commands](https://askubuntu.com/questions/54157/how-do-i-set-xmodmap-on-login)
 - IJKL Arrow keys (Alt+IJKL for arrow keys) = [Autokey](https://github.com/autokey/autokey)
+
+## Japanese Input
+
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE1ODc2ODQ2MTNdfQ==
+-->
