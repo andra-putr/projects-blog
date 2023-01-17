@@ -17,7 +17,7 @@ Here are some of the things I want to do to it:
   - New SSD
   - Replace thermal paste
 - Software
-  - Dualboot Ubuntu
+  - Dualboot Linux
   - GNU GRUB Themes
   - Custom boot logo
   - Ubuntu issues
@@ -56,3 +56,6 @@ During a meeting that I had with an important representative in my univeristy, m
 
 ### New Thermal Paste
 (工事中)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE2OTQ2Mjk4MzhdfQ==
+-->
