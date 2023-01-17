@@ -24,10 +24,13 @@ Current settings:
 This was initially quite an annoying issue to deal with for me, since I was really adamant about my keyboard shortcuts (as can be seen with me having all those keyboard macros and switches). Since inputting Japanese through a keyboard requires you to press several more keys to choose input method etc., this also of course meant that my usual workflow when using Japanese on a computer is also modified quite a bit and I am really only fully comfortable with my own setup. 
 
 ### JP Input on Windows
-I first learned Japanese (including how to type in Japanese) on a windows machine back home, so it naturally became the input method that I'm most used to. I used Google's Japanese IME on a standard ANSI keyboard which had 
+I first learned Japanese (including how to type in Japanese) on a windows machine back home, so it naturally became the input method that I'm most used to. I used Google's Japanese IME on a standard ANSI keyboard which had shortcuts such as:
+- Win + Spacebar = Switch language (Windows shortcut)
+- L_Alt + \` = Switch input mode (Romaji --> ひらがな --> カタカナ)
+- Shift
 
 ### JP Input on Linux
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NDUzMTE5MCwxNjczODE4MDcwLC0xNT
+eyJoaXN0b3J5IjpbLTMwNzY2NzUwNiwxNjczODE4MDcwLC0xNT
 g3Njg0NjEzXX0=
 -->
