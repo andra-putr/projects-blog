@@ -9,11 +9,18 @@ And yet another Raspberry Pi cluster home server. Also includes optimizing home 
 - Raspberry Pi 4
 	- Main server
 	- Running Docker
-		- Portainer manage
+		- Portainer docker manager
+		- Main pihole server
+		- PXE Boot server (future)
 - Raspberry Pi Zero WH
 	- 
 - Raspberry Pi Zero WH
 	- Still not set up
+
+
+# Future To-Do
+- Open port forward through VPN for remote internet access
+	- Will need to set firewall rules for security
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MzM1ODI5MF19
+eyJoaXN0b3J5IjpbMTMwNzY5MjQ2NF19
 -->
