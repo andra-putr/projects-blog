@@ -31,13 +31,18 @@ There were more I believe, such as F7 or something to convert selected text into
 
 ### JP Input on Linux
 ![enter image description here](https://imgur.com/fI5u2ORl.png)
-I really thought importing my settings from Windows would be much easier than it was, but alas quite a bit of tinkering was needed. When I was still using Ubuntu, I had a solution that kind of worked? But I never really liekd
+I really thought importing my settings from Windows would be much easier than it was, but alas quite a bit of tinkering was needed. When I was still using Ubuntu, I had a solution that kind of worked? But I never really liked it since it had issues like:
+
+- Couldn't use Windows key and \` key for some reason as shortcuts???
+- Was stuck on JIS layout, could not easily find option to switch to ANSI with Japanese input
+
+Which made me HATE using it. I ended up having to always switch back to my Wind
 
 # Future Things
 
 - Method to export/import keyboard bindings etc. easily between all my Linux machines
 	- Export as package or something maybe?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTY4MDA2LDEyNTA1NzYxNywxNjczOD
-E4MDcwLC0xNTg3Njg0NjEzXX0=
+eyJoaXN0b3J5IjpbMjA2NDc1OTE0OSwxMjUwNTc2MTcsMTY3Mz
+gxODA3MCwtMTU4NzY4NDYxM119
 -->
