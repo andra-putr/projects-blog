@@ -18,7 +18,7 @@ Current settings:
 
 ## Japanese Input
 
-
+![enter image description here](https://imgur.com/fI5u2ORl.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODc2ODQ2MTNdfQ==
+eyJoaXN0b3J5IjpbMTY3MzgxODA3MCwtMTU4NzY4NDYxM119
 -->
