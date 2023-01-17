@@ -25,16 +25,24 @@ And yet another Raspberry Pi cluster home server. Also includes optimizing home 
 
 #### Network Setup
 - Buffalo router
+	- Main router directly connected to fiber modem
+	- Currently running stock firmware, will install OpenWRT on it so I can set DNS servers to Pihole
 - Elecom router
+	- Running OpenWRT
+	- Was main router, but delegated to temporary secondary router & WAP
+		- Ended up being too weak to serve reliable gigabit speeds
+	- Will end up being slave WAP to Buffalo router
 - TP-Link gigabit switch
-	- Switch 
+	- Switch for raspberry pi cluster
 # Current Issues
 ### PiHole not blocking everything
-For some reason though it says it's blocking things, ads still come through
+For some reason though it says it's blocking things, ads still come through.
+The main reason why I wanted to start this project in t
+### How to access main router from WAP?
 
 # Future To-Do
 - Open port forward through VPN for remote internet access
 	- Will need to set firewall rules for security
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NzkzODcyOF19
+eyJoaXN0b3J5IjpbMTAwMDA5NzgwMl19
 -->
