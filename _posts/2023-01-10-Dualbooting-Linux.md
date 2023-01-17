@@ -1,8 +1,6 @@
 ---
 published: true
 ---
-## Intro
-
 Started with Ubuntu dualbooting Win 10, but corrupted for some reason.
 Decided might as well try Kali linux since I wanted to play around with pentesting stuff, so that's what I'm using now.
 
@@ -76,6 +74,6 @@ After a bit of searching I ended up following [this thread](https://unix.stackex
 - Fingerprint scanner
 	- Maybe drivers required? Not sure if lenovo provides for Linux
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NzI0NDYsMjIwNDQ5MTI0LDEyNTA1Nz
-YxNywxNjczODE4MDcwLC0xNTg3Njg0NjEzXX0=
+eyJoaXN0b3J5IjpbNTU2MTI4NTYyLDIyMDQ0OTEyNCwxMjUwNT
+c2MTcsMTY3MzgxODA3MCwtMTU4NzY4NDYxM119
 -->
