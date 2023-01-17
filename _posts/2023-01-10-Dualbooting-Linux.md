@@ -51,12 +51,16 @@ I'm sure you're already saying to yourself
 # Mouse Stuff
 Mostly pretty good, was just annoyed that Kali doesn't have an easy way to disable the "Middle mouse to paste" thing that Linux for some reason has. With Ubuntu GNOME it was easy enough to run `gnome-tweaks`, but since my Kali was on XFCE I wasn't sure on how to do that.
 
-After a bit of searching I ended up following [this thread](https://unix.stackexchange.com/questions/24330/how-can-i-turn-off-middle-mouse-button-paste-functionality-in-all-programs)
+After a bit of searching I ended up following [this thread](https://unix.stackexchange.com/questions/24330/how-can-i-turn-off-middle-mouse-button-paste-functionality-in-all-programs) I found from reddit. I made the file and set it to launch on startup, bob's your uncle mary's your aunt it works well.
 # Future Things
 
 - Method to export/import keyboard bindings etc. easily between all my Linux machines
 	- Export as package or something maybe?
+- Mouse/Trackpad
+	- Still unhappy about lack of features l
+- Fingerprint scanner
+	- Maybe drivers required? Not sure if lenovo provides for Linux
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzExMDI1NDI1LDIyMDQ0OTEyNCwxMjUwNT
-c2MTcsMTY3MzgxODA3MCwtMTU4NzY4NDYxM119
+eyJoaXN0b3J5IjpbLTE1MzI5NjMyNzYsMjIwNDQ5MTI0LDEyNT
+A1NzYxNywxNjczODE4MDcwLC0xNTg3Njg0NjEzXX0=
 -->
