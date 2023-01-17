@@ -32,6 +32,7 @@ And yet another Raspberry Pi cluster home server. Also includes optimizing home 
 	- Will end up being slave WAP to Buffalo router
 - TP-Link gigabit switch
 	- Switch for raspberry pi cluster
+
 # Current Issues
 ### PiHole not blocking everything
 For some reason though it says it's blocking things, ads still come through.
@@ -44,5 +45,5 @@ Currently if I connect to main Buffalo router from PC, I can't access my seconda
 Already bought a static IP thing from Windscribe, will see how I can set up something so that I can access the server from anywhere. 
 Will need to set firewall rules for security, so def wanna take my time with this and not rush it just to have my entire network pwned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0ODgyOTEwNV19
+eyJoaXN0b3J5IjpbMTQwMTE3Mjc2N119
 -->
