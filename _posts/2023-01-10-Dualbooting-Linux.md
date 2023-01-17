@@ -36,7 +36,14 @@ I really thought importing my settings from Windows would be much easier than it
 - Couldn't use Windows key and \` key for some reason as shortcuts???
 - Was stuck on JIS layout, could not easily find option to switch to ANSI with Japanese input
 
-Which meant that I
+Which meant that:
+- I had to use mouse manually to switch between EN and JP
+- I had to use mouse manually to switch between Romaji and kana input
+- I had to use mouse manually to switch between hiragana and katakana
+- I had to blindly find where symbols are located under since JIS layout places them in different locations VS ANSI
+
+!
+
 Which made me HATE using it. I ended up having to always switch back to my Windows partition whenever I go to Japanese class. 
 
 I'm sure you're already saying to yourself 
@@ -46,6 +53,6 @@ I'm sure you're already saying to yourself
 - Method to export/import keyboard bindings etc. easily between all my Linux machines
 	- Export as package or something maybe?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjAwOTkzODMsMTI1MDU3NjE3LDE2Nz
-M4MTgwNzAsLTE1ODc2ODQ2MTNdfQ==
+eyJoaXN0b3J5IjpbMTMyOTQ0ODE0NCwxMjUwNTc2MTcsMTY3Mz
+gxODA3MCwtMTU4NzY4NDYxM119
 -->
