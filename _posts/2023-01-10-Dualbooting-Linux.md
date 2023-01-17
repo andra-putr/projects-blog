@@ -8,7 +8,7 @@ Decided might as well try Kali linux since I wanted to play around with pentesti
 
 Still lost few things along the way though like my custom login screen based around Lain's Copland OS thing I found on github.
 
-## Keyboard Bindings
+# Keyboard Bindings
 Had to use different binds since each of them couldn't do the other for some reason, at least it works for the most part.
 
 Current settings: 
@@ -29,10 +29,14 @@ I first learned Japanese (including how to type in Japanese) on a windows machin
 - L_Alt + \` = Switch input mode (Romaji --> 仮名)
 - Shift + Caps_Lock = Switch Kana input mode (ひらがな　--> カタカナ)
 
-There were more I believe, such as F7 or something to convert selected text into katakana, double/half width conversion e
+There were more I believe, such as F7 or something to convert selected text into katakana, double/half width conversion, etc. But I never really used them much and mostly relied on the above mentioned shortcuts. My goal then was to of course try and find a way to have the same shortcuts set up on my Linux machines.
 
 ### JP Input on Linux
+
+
+
+## Future 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk0NDA5NTI3LDE2NzM4MTgwNzAsLTE1OD
-c2ODQ2MTNdfQ==
+eyJoaXN0b3J5IjpbLTEwMzYzMjEyNCwxNjczODE4MDcwLC0xNT
+g3Njg0NjEzXX0=
 -->
