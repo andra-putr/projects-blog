@@ -49,7 +49,9 @@ Which made me HATE using it. I ended up having to always switch back to my Windo
 I'm sure you're already saying to yourself "oh but Andra why don't you just click on top right idiot!!! ez to click and switch language options!!!" yes but I am probably on a spectrum and I want to have an efficient way of operating a computer. I mean it's basically like 60% of why I love Thinkpads and trackpoints so much.
 
 Anyway, after looking around forums again I finally found out a solution that I am satisfied with, which was using iBus keyboard thingy with the Japanese (Anthy) input.
-![enter image description here](https://imgur.com/fI5u2ORl.png)I'm not exactly sure why, but the Anthy version of the Japanese input had exactly the options that I wanted to modify 
+![enter image description here](https://imgur.com/fI5u2ORl.png)
+I'm not exactly sure why, but the Anthy version of the Japanese input had exactly the options that I wanted to modify to be able to make it function exactly like my Windows Google IME that I'm used to.
+I've included the settings I put on the pic above so you can see how I binded it. I also binded `Win + Spacebar` to switch between language options and I am a very happy man indeed. 
 
 # Mouse Stuff
 Mostly pretty good, was just annoyed that Kali doesn't have an easy way to disable the "Middle mouse to paste" thing that Linux for some reason has. With Ubuntu GNOME it was easy enough to run `gnome-tweaks`, but since my Kali was on XFCE I wasn't sure on how to do that.
@@ -67,6 +69,6 @@ After a bit of searching I ended up following [this thread](https://unix.stackex
 - Fingerprint scanner
 	- Maybe drivers required? Not sure if lenovo provides for Linux
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NTUzNTcyMCwyMjA0NDkxMjQsMTI1MD
-U3NjE3LDE2NzM4MTgwNzAsLTE1ODc2ODQ2MTNdfQ==
+eyJoaXN0b3J5IjpbLTE0Nzc1NDkxMzUsMjIwNDQ5MTI0LDEyNT
+A1NzYxNywxNjczODE4MDcwLC0xNTg3Njg0NjEzXX0=
 -->
