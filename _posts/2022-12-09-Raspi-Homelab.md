@@ -37,12 +37,13 @@ And yet another Raspberry Pi cluster home server. Also includes optimizing home 
 # Current Issues
 ### PiHole not blocking everything
 For some reason though it says it's blocking things, ads still come through.
-The main reason why I wanted to start this project in t
+The main reason why I wanted to start this project in the first place was so that I can have an ad-free Chromecast experience, and from what I read it's gonna be harder with the Chromecast since apparently it's hard-coded to go through Google's DNS servers for everything.
+Will have to find a way to spoof connection to my DNS servers instead in the future.
 ### How to access main router from WAP?
-
+Currently if I connect to main Buffalo router from PC, I can't access my secondary WAP router for some reason. Will have to look into it - probably will be non-issue after I install OpenWRT on Buffalo router.
 # Future To-Do
 - Open port forward through VPN for remote internet access
 	- Will need to set firewall rules for security
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMDA5NzgwMl19
+eyJoaXN0b3J5IjpbMjE5MzA0MDgxXX0=
 -->
