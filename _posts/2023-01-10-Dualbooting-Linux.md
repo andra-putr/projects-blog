@@ -35,8 +35,11 @@ There were more I believe, such as F7 or something to convert selected text into
 
 
 
-## Future 
+# Future Things
+
+- Method to export/import keyboard bindings etc. easily between all my Linux machines
+	- Export as package or something maybe?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzYzMjEyNCwxNjczODE4MDcwLC0xNT
-g3Njg0NjEzXX0=
+eyJoaXN0b3J5IjpbMTI1MDU3NjE3LDE2NzM4MTgwNzAsLTE1OD
+c2ODQ2MTNdfQ==
 -->
