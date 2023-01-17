@@ -30,7 +30,7 @@ I first learned Japanese (including how to type in Japanese) on a windows machin
 There were more I believe, such as F7 or something to convert selected text into katakana, double/half width conversion, etc. But I never really used them much and mostly relied on the above mentioned shortcuts. My goal then was to of course try and find a way to have the same shortcuts set up on my Linux machines.
 
 ### JP Input on Linux
-![enter image description here](https://imgur.com/fI5u2ORl.png)
+
 I really thought importing my settings from Windows would be much easier than it was, but alas quite a bit of tinkering was needed. When I was still using Ubuntu, I had a solution that kind of worked? But I never really liked it since it had issues like:
 
 - Couldn't use Windows key and \` key for some reason as shortcuts???
@@ -48,6 +48,9 @@ Which made me HATE using it. I ended up having to always switch back to my Windo
 
 I'm sure you're already saying to yourself "oh but Andra why don't you just click on top right idiot!!! ez to click and switch language options!!!" yes but I am probably on a spectrum and I want to have an efficient way of operating a computer. I mean it's basically like 60% of why I love Thinkpads and trackpoints so much.
 
+Anyway, after looking around forums again I finally found out a solution that I am satisfied with, which was using iBus keyboard thingy with the Japanese (Anthy) input.
+![enter image description here](https://imgur.com/fI5u2ORl.png)I'm not exactly sure why, but the Anthy version of the Japanese input had exactly the options that I wanted to modify 
+
 # Mouse Stuff
 Mostly pretty good, was just annoyed that Kali doesn't have an easy way to disable the "Middle mouse to paste" thing that Linux for some reason has. With Ubuntu GNOME it was easy enough to run `gnome-tweaks`, but since my Kali was on XFCE I wasn't sure on how to do that.
 
@@ -64,6 +67,6 @@ After a bit of searching I ended up following [this thread](https://unix.stackex
 - Fingerprint scanner
 	- Maybe drivers required? Not sure if lenovo provides for Linux
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MDkwNTU5NSwyMjA0NDkxMjQsMTI1MD
+eyJoaXN0b3J5IjpbLTU3NTUzNTcyMCwyMjA0NDkxMjQsMTI1MD
 U3NjE3LDE2NzM4MTgwNzAsLTE1ODc2ODQ2MTNdfQ==
 -->
