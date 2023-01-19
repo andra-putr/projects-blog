@@ -44,6 +44,11 @@ Currently if I connect to main Buffalo router from PC, I can't access my seconda
 #### Open port forward through VPN for remote internet access
 Already bought a static IP thing from Windscribe, will see how I can set up something so that I can access the server from anywhere. 
 Will need to set firewall rules for security, so def wanna take my time with this and not rush it just to have my entire network pwned.
+
+This will probably be set up through another Docker container running OpenVPN on the respective Raspi servers.
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMTE3Mjc2N119
+eyJoaXN0b3J5IjpbMjkzNjU3MzE1LDE0MDExNzI3NjddfQ==
 -->
