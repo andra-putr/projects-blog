@@ -65,7 +65,7 @@ After a bit of searching I ended up following [this thread](https://unix.stackex
 # Future Things
 
 - Method to export/import keyboard bindings etc. easily between all my Linux machines
-	- Export as package or something maybe?
+	- I think can be done with shellscript file hosted on Github. Something about a script that makes backup of config files + replaces your current ones?
 - Mouse/Trackpad
 	- Still unhappy about lack of features like
 		- 4 finger swipe to switch virtual desktops
@@ -73,7 +73,9 @@ After a bit of searching I ended up following [this thread](https://unix.stackex
 		- etc.
 - Fingerprint scanner
 	- Maybe drivers required? Not sure if lenovo provides for Linux
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU2MTI4NTYyLDIyMDQ0OTEyNCwxMjUwNT
-c2MTcsMTY3MzgxODA3MCwtMTU4NzY4NDYxM119
+eyJoaXN0b3J5IjpbLTE4ODUwMjIxMDIsNTU2MTI4NTYyLDIyMD
+Q0OTEyNCwxMjUwNTc2MTcsMTY3MzgxODA3MCwtMTU4NzY4NDYx
+M119
 -->
