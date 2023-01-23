@@ -40,7 +40,9 @@ The main reason why I wanted to start this project in the first place was so tha
 Will have to find a way to spoof connection to my DNS servers instead in the future.
 
 Update (2023/1/23):
-		After some fiddling about and installing OpenWrt on both of my routers, pihole now is able to block *most* ads on the devices on my network. Chromecast however is still a bit of a problem...
+	After some fiddling about and installing OpenWrt on both of my routers, pihole now is able to block *most* ads on the devices on my network. Chromecast however is still a bit of a problem...
+	Even after I blocked all outward DNS requests on port 53 and re-route them to my pihole servers, seems like Google still manages to inject ads to my chromecast's YouTube through on way way or another.
+	After messing around with it an entire day I decided you know what - there's probably a third party 
 
 ### How to access main router from WAP?
 Currently if I connect to main Buffalo router from PC, I can't access my secondary WAP router for some reason. Will have to look into it - probably will be non-issue after I install OpenWRT on Buffalo router.
@@ -54,6 +56,6 @@ This will probably be set up through another Docker container running OpenVPN on
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxODAyMjE0NiwyOTM2NTczMTUsMTQwMT
+eyJoaXN0b3J5IjpbLTE1MTQzNTIzNCwyOTM2NTczMTUsMTQwMT
 E3Mjc2N119
 -->
